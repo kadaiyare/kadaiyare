@@ -5,4 +5,4 @@
 ![](https://raw.githubusercontent.com/s3xms/s3xms/main/profile-summary-card-output/panda/1-repos-per-language.svg)![](https://raw.githubusercontent.com/s3xms/s3xms/main/profile-summary-card-output/panda/4-productive-time.svg)
 ![](https://raw.githubusercontent.com/s3xms/s3xms/main/profile-summary-card-output/panda/0-profile-details.svg)
 
-Illustrations provided by [nocopyrightgirl]:https://fromtheasia.com/illustration/nocopyrightgirl
+Illustrations provided by [nocopyrightgirl](https://fromtheasia.com/illustration/nocopyrightgirl)
