@@ -10,7 +10,7 @@
 ![](https://raw.githubusercontent.com/kadaiyare/kadaiyare/main/profile-summary-card-output/panda/2-most-commit-language.svg)![](https://raw.githubusercontent.com/kadaiyare/kadaiyare/main/profile-summary-card-output/panda/4-productive-time.svg)
 ![](https://raw.githubusercontent.com/kadaiyare/kadaiyare/main/profile-summary-card-output/panda/0-profile-details.svg)
 
-[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=KADAIYARE&loved=true&count=10)](https://www.last.fm/user/KADAIYARE)
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=KADAIYARE&loved=true&count=7&show_user=header&header_size=normal_stats_only&footer_style=wave)](https://www.last.fm/user/KADAIYARE)
 
 Illustrations provided by [nocopyrightgirl](https://fromtheasia.com/illustration/nocopyrightgirl)
 <!--
