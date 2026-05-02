@@ -4,7 +4,7 @@
 )](https://kadaiyare.com/@FounderT)
 - Arch Linux User
 - Administrator of [Kadaiyare.com](https://kadaiyare.com)
-- Student Developer
+- Student & Part-time Dev Intern
 - contact: Feel free to reach out to me on Misskey!
 
 ![](https://raw.githubusercontent.com/kadaiyare/kadaiyare/main/profile-summary-card-output/panda/2-most-commit-language.svg)![](https://raw.githubusercontent.com/kadaiyare/kadaiyare/main/profile-summary-card-output/panda/4-productive-time.svg)
